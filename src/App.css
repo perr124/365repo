@@ -20,7 +20,7 @@
   width: auto;
 }
 
-input {
+#file-input {
   color: red;
   text-align: center;
   margin-left: 80px;

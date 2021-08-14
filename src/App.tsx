@@ -33,6 +33,7 @@ function App() {
         <div className='row'>
           <h1>365-Widgets</h1>
           <p className='Sub-title'>Affordable Home Sensors</p>
+          <input name='evalName' id='evalName' placeholder='Evaluation name' />
           <h2>Upload text file below.</h2>
           <input id='file-input' type='file' onChange={addFile} />
           <br />

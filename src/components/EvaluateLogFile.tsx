@@ -178,6 +178,7 @@ const EvaluateLogFile: React.FC<any> = ({ logContentsStr }) => {
     console.log(output);
   };
 
+
   return loading ? (
     <BeatLoader css={loaderCSS} size={30} />
   ) : (
