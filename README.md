@@ -1,5 +1,5 @@
 # User Notes
-Thanks again for this opportunity. Direct link to the project can be accessed at https://widgets-475f6.web.app/
+Thanks again for this opportunity. Direct link to the hosted project can be accessed at https://widgets-475f6.web.app/
 
 I used Typescript for this project to improve error-handling and intellisense. I also know that's what is used at CMG and thought it'll be reasonable to implement. I am capable of switching the project to plain JS if necessary, please just let me know.
 
